@@ -1,15 +1,15 @@
 def using_include(array, element)
   cat = ["Luna", "Garfield", "Tom"]
-  cat.include?("Tom")
+  cat.include?("Blink")
 end
 
 def using_sort(array)
-  anime = ["Rurouni Kenshin", "Gundam Wing", "Demon Slayer", "Inuyasha", "wow"]
+  anime = ["Rurouni Kenshin", "Yu Yu Hakusho", "I", "Inuyasha", "wow"]
   anime.sort
 end
 
 def using_reverse(array)
-  fun = ["yellow", "blue", "tandem", "arrays!"]
+  fun = ["wow", "blue", "tandem", "arrays!"]
   fun.reverse
 end
 
