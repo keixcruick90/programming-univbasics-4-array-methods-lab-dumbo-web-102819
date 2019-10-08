@@ -1,6 +1,6 @@
 def using_include(array, element)
   cat = ["Luna", "Garfield", "Tom"]
-  cat.include?("Blink")
+  cat.include?("Luna")
 end
 
 def using_sort(array)
