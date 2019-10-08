@@ -1,5 +1,6 @@
 def using_include(array, element)
-
+  c = ["truth", "false", "truthy," "falsey"]
+  c.include?("truth")
 end
 
 def using_sort(array)
