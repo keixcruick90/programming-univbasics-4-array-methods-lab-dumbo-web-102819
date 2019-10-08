@@ -1,5 +1,6 @@
 def using_include(array, element)
   cat = ["Garfield", "Luna", "Tom"]
+  cat.include?("Luna")
   cat.include?("Blink")
 end
 
